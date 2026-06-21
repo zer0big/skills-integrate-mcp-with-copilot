@@ -33,6 +33,12 @@ activities = {
         "max_participants": 20,
         "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
     },
+    "GitHub Skills": {
+        "description": "Practical coding and collaboration workshops in partnership with GitHub",
+        "schedule": "Special sessions announced — register by this week",
+        "max_participants": 50,
+        "participants": []
+    },
     "Gym Class": {
         "description": "Physical education and sports activities",
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
